@@ -1,0 +1,60 @@
+/* Container styling */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Card styling */
+mat-card {
+    max-width: 500px; /* Maximum width of the card */
+    width: 100%; /* Full width within its container */
+    padding: 20px; /* Padding inside the card */
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+/* Title styling */
+mat-card-title {
+    text-align: center; /* Center the text */
+    font-size: 24px; /* Font size for the title */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center form elements horizontally */
+}
+
+/* Form field styling */
+mat-form-field {
+    width: 100%; /* Full width of the form */
+    margin-bottom: 20px; /* Space between form fields */
+}
+
+/* Button styling */
+button {
+    width: 100%; /* Full width of the form */
+}
+
+/* Responsive design */
+@media screen and (max-width: 500px) {
+    mat-card {
+        max-width: 90%; /* Adjust card width for smaller screens */
+    }
+
+    mat-card-title {
+        font-size: 20px; /* Adjust font size for smaller screens */
+    }
+
+    mat-form-field {
+        margin-bottom: 10px; /* Adjust space between form fields */
+    }
+}
+
+/* Snackbar error styling */
+.error-snackbar {
+    background-color: #f44336 !important; /* Red background for error snackbar */
+}
