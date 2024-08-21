@@ -1,1 +1,36 @@
-# E-Commerce-Website-Frontend
+# Angular 17 Project
+
+Welcome to the **E-Comerce Website**! This is a simple Angular 17 application. Follow these instructions to set up and run the project.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js] (v18.0.0 or later)
+- [npm] (v9.0.0 or later) 
+- [Angular CLI](v17.0.0 or later)
+
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/abhi73000/E-Commerce-Website-Frontend.git
+    cd your-angular-project
+    ```
+
+2. **Install dependencies:**
+
+    Using npm:
+
+    ```bash
+    npm install
+    ```
+
+
+## Running the Application
+
+To start the development server and view the application:
+
+```bash
+ng serve
