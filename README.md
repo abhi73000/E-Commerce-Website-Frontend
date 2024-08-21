@@ -1,4 +1,4 @@
-# Angular 17 Project
+# E-Comerce Website Frontend
 
 Welcome to the **E-Comerce Website**! This is a simple Angular 17 application. Follow these instructions to set up and run the project.
 
