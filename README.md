@@ -1,6 +1,6 @@
 # E-Comerce Website Frontend
 
-Welcome to the **E-Comerce Website**! This is a simple Angular 17 application. Follow these instructions to set up and run the project.
+Welcome to the **E-Comerce Website**! This is a complete E-Comerce Website application. Follow these instructions to set up and run the project.
 **Backend --** https://github.com/abhi73000/E-Commerce-Website-Backend.git
 
 ## Prerequisites
